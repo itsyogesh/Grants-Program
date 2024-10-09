@@ -55,7 +55,7 @@ Besides, **there is a clear difference between an application being accepted and
 | [gmajor](https://github.com/gmajor-encrypt)                       | [subxt-python](./subxt-python.md)                     | [GitHub](https://github.com/gmajor-encrypt/xcm-tools)                 | ☐          |        ☒       |      ☐      |
 | [Liu-Cheng Xu](https://github.com/liuchengxu)                       | [Subcoin](./Subcoin.md)                     | [GitHub](https://github.com/subcoin-project/subcoin)                 | ☐          |        ☒       |      ☐      |
 | [Experio S M](https://www.linkedin.com/in/leogcustodio/)                       | [Polkadart Follow-up](./polkadart_extension.md)                     | [GitHub](https://github.com/leonardocustodio/polkadart)                 | ☐          |        ☐       |      ☐      |
-| [Solidbit GmbH](https://solid-bit.com/)                       | [ISO20022 Ecosystem Research and Technical Design](./ISO20022-Implementation-POC.md)                     | [GitHub](https://github.com/SolidbitGmbH)                 | ☐          |        ☐       |      ☐      |
+| [Solidbit GmbH](https://solid-bit.com/)                       | [ISO20022 Ecosystem Research and Technical Design](./ISO20022-Implementation-POC.md)                     | [GitHub](https://github.com/SolidbitGmbH)                 | ☐          |        ☒       |      ☒      |
 | [Katarína Valová](https://github.com/kacena123)                       | [AgriDot](./AgriDot.md)                     | [GitHub](https://github.com/kacena123)                 | ☐          |        ☐       |      ☐      |
 | [Web3 Association](https://github.com/web3association)                       | [Open source contributor funding experiment](./web3-association-open-source-contributor-funding-experiment-setup.md)                     | [GitHub](https://github.com/web3association)                 | ☐          |        ☐       |      ☐      |
 | [SIGMA 8 SOLUTIONS](https://github.com/lukastanisic99)                       | [P2P State Channels](./P2PStateChannels.md)                     | [GitHub](https://github.com/lukastanisic99)                 | ☐          |        ☐       |      ☐      |
@@ -72,7 +72,7 @@ Besides, **there is a clear difference between an application being accepted and
 | [Sporyon Technologies](https://sporyon.io)                       | [Dotnix](./dotnix.md)                     | [GitHub](https://github.com/sporyon/dotnix) | ☐          |        ☒       |      ☒      |
 | [Dastanbek Samatov](https://dastansam.github.io/)                       | [Substrate EVM Adapter](./substrate-evm-adapter.md)                     | [GitHub](https://github.com/dastanbeksamatov) | ☐          |        ☐       |      ☐      |
 | [KodaDot](https://kodadot.xyz/)                       | [AssetHub NFT Indexer (M2)](./kodadot_assethub_nft_m2.md)                     | [GitHub](https://github.com/kodadot) | ☐          |        ☒       |      ☒      |
-| C Forge                       | [Improve & Update Typechain Polkadot](./typechain_revived.md)                     |  | ☐          |        ☒       |      ☐      |
+| C Forge                       | [Improve & Update Typechain Polkadot](./typechain_revived.md)                     |  | ☐          |        ☒       |      ☒      |
 
 [🔝](#top)
 
